@@ -1,0 +1,17 @@
+{
+  "name": "@theluckystrike/ext-messaging",
+  "version": "1.0.0",
+  "description": "Cross-context messaging library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": ["chrome-extension", "chrome", "extension"],
+  "author": "theluckystrike",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
